@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A fruitful sermon preached at Occham in the county of Rutland, the second of Nouember, 1583 by Thoma
+
+1. ¶ TO THE RIGHT HONOVRABLE Lorde, FRAƲNCES, Earle of BEDFORD, and one of her Maieſties moſt honourable priuy Counſell Knight of the Noble order of the Garter: VVith the Right Honourarable, Syr VVALTER MILDEMAY Knight, Chancelour of the Queenes Maieſties Court of Exchequer, and one of her Highnes moſt honourable priuy Counſell, Grace, Mercy, and peace be multiplied from God our Heauenly Father, & from our Lord & Sauiour Ieſus Chriſte.
+
 #####Body#####
-A fruitful sermon preached at Occham in the county of Rutland, the second of Nouember, 1583 by Thoma
+
+1. Hearken with feare and reuerence to the worde of the Lorde, written by the holy Apoſtle Saint Paule, in his firſt epiſtle to the Corinthians.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
